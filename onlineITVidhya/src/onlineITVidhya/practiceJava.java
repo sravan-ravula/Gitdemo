@@ -13,6 +13,9 @@ public class practiceJava {
 			break;
 			default:
 				System.out.println("very weak");
+				System.out.println("very weak");
+				System.out.println("very weak");
+				
 			
 		}
     
