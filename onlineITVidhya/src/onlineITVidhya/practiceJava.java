@@ -15,6 +15,9 @@ public class practiceJava {
 				System.out.println("very weak");
 				System.out.println("very weak");
 				System.out.println("very weak");
+				System.out.println("very weak");
+				System.out.println("very weak");
+				System.out.println("very weak");
 				
 			
 		}
